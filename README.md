@@ -14,4 +14,5 @@ PASOS Y COMANDOS
      * gpt remove -a /dev/disk1
 
 3.- fomatear unidades de almacenamiento
+
 4.- reinstalar macOS.
